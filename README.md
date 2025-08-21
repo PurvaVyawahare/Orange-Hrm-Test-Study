@@ -1,4 +1,4 @@
-# OrangeHRM Manual Testing Portfolio
+# OrangeHRM Manual Testing
 
 This repository contains **end-to-end manual testing documentation** for the **OrangeHRM Web Application**. It includes detailed **test scenarios and  test cases** covering functional, UI/UX, and boundary testing aspects.
 
